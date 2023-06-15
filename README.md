@@ -3,6 +3,6 @@
 Run with 
 
 ```bash
-python plotLimits.py 
+python plotLimit.py 
 ```
 
